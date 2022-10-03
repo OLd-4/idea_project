@@ -23,6 +23,9 @@ public class Demo1 {
         
         System.out.println("remote!");
         System.out.println("remote!");
+
+        System.out.println("2022/10/1!");
+        System.out.println("2022/10/1!");
     }
 
 }
